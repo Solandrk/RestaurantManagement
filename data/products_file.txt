@@ -1,0 +1,175 @@
+3
+31
+Special Pizza
+80000
+20
+Single-Chicken-meat
+NEXT
+3
+24
+Pepperoni pizza
+110000
+15
+Pizaa-greate-delicious
+NEXT
+3
+27
+Roast beef burger
+75000
+15
+Beef-fresh-delicious
+NEXT
+3
+12
+Stake
+100000
+25
+Fresh-healthy-nice
+NEXT
+3
+11
+French fries
+30000
+15
+Hot-ketchup-mini
+NEXT
+3
+36
+Pasta
+80000
+25
+Fresh-vegetables-Chicken
+NEXT
+3
+17
+Fried mushrooms
+65000
+20
+Single-cheddar cheese-200g
+NEXT
+4
+42
+Jooje kabab 
+70000
+30
+Persian-chicken-fresh
+NEXT
+4
+43
+Ghorme sabzi
+950000
+30
+Sabzi-Ghorme-Torsh
+NEXT
+4
+44
+Cholo kabab
+90000
+30
+Persian-raice-chicken
+NEXT
+4
+47
+Fesenjoon
+100000
+35
+Persian-delicious-sour
+NEXT
+4
+50
+kabab kubide
+80000
+20
+Meat-fresh-delicious
+NEXT
+5
+53
+Chocolate cake
+28000
+10
+Homemade-chocolate-delicious
+NEXT
+5
+55
+Cafe Glace
+25000
+10
+Iced coffe-creamy-Cool 
+NEXT
+5
+58
+Apple pie
+45000
+10
+Homemade-Apple
+NEXT
+5
+60
+Cheese cake
+40000
+10
+Cheese-healthy
+NEXT
+5
+62
+Ice cream
+15000
+5
+Cool-Creamy-Chocolate
+NEXT
+2
+70
+Cocka kola
+10000
+0
+Single - Cool
+NEXT
+2
+71
+Fanta
+3000
+0
+Single - Cool
+NEXT
+2
+74
+Dough Abali
+9000
+0
+Single - cool
+NEXT
+2
+79
+Equatorial 
+6000
+0
+Single - Cool
+NEXT
+2
+75
+Water
+4500
+0
+Single - Cool
+NEXT
+1
+91
+Piaz soghari
+15000
+8
+Piaz-shorkhshode
+NEXT
+1
+92
+Ghotab
+20000
+6
+Khamir-Ard-Khoshmaze
+NEXT
+1
+93
+Piazz paniri
+18000
+10
+Piazz-Panir-shorkhshode
+NEXT
